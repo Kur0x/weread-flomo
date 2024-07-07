@@ -1,0 +1,3 @@
+# weread-flomo
+将微信读书笔记批量发送到flomo
+需要配合weread2notion使用，因为是从notion中获得全部读书笔记
